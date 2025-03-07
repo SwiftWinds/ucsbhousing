@@ -14,7 +14,7 @@
 	},
 	"main": "lib/index.js",
 	"dependencies": {
-		"@googlemaps/google-maps-services-js": "^3.3.26",
+		"@googlemaps/google-maps-services-js": "^3.4.0",
 		"cheerio": "^1.0.0-rc.12",
 		"dotenv": "^16.0.3",
 		"firebase-admin": "^10.2.0",
